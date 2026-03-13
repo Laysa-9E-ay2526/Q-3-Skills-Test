@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+}
+
+.ticket-box {
+    background-color: rgb(255, 255, 255);
+    width: 350px;
+    border-radius: 8px;
+}
+
+.blue-header {
+    background-color: rgb(10, 100, 178);
+    color: aliceblue;
+}
